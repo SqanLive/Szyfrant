@@ -1,2 +1,2 @@
 # Szyfrant
-Command line based rpogram, ciphers data from files
+Command line based program, used to encrypt and decrypt given or uploaded from file data. Uses Cesar's cipher and unicode moving. 
