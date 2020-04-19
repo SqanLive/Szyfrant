@@ -15,4 +15,4 @@ Arguments:
 
 `java Main -mode dec -key 5 -data "Uweji bdwzxejsnjr b iwtlj sfqjed ejgwfh iwzedsj"`  
 
-Przed wyruszeniem w droge nalezy zebrac druzyne  
+>Przed wyruszeniem w droge nalezy zebrac druzyne  
